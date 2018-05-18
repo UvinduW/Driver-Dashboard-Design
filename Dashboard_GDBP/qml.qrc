@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>DriverMode.qml</file>
+        <file>DriverWarnings.qml</file>
+        <file>DriverButton.qml</file>
+        <file>CentreCircle.qml</file>
+        <file>DriverMode2.qml</file>
+        <file>SocBar.qml</file>
+        <file>PowerGauge.qml</file>
+        <file>SpeedGauge.qml</file>
+        <file>ChartGauge.qml</file>
+        <file>Graphics/BattIcon.png</file>
+        <file>TempBar.qml</file>
+        <file>Graphics/TempIcon.png</file>
+        <file>TripBar.qml</file>
+        <file>Graphics/TimeIcon.png</file>
+        <file>TripTempBox.qml</file>
+        <file>MaintenanceMode.qml</file>
+        <file>CellDataScreen.qml</file>
+    </qresource>
+</RCC>
